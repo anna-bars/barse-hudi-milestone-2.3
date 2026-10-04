@@ -16,7 +16,7 @@
   --ok:#3DDC97;
   --warn:#F5B144;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap');
 *{box-sizing:border-box;-webkit-font-smoothing:antialiased;}
 html,body{margin:0;padding:0;background:var(--ink);color:var(--text);font-family:var(--display);}
 body{overflow-x:hidden;}
